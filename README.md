@@ -1,2 +1,2 @@
 # codigo-todo-dia-01
-código todo dia CTD 01
+O meu primeiro projeto.
